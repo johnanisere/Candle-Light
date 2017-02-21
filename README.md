@@ -1,2 +1,2 @@
 # Candle-Light
-Treatment Planning Software for external beam therapy
+Candle Light is an experimental software for optimizing FORWARD treatment planning in external beam therapy
